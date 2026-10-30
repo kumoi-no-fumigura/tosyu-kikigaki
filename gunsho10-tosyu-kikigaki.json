@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tosyu-kikigaki",
  "yomi": "とうやしゅうききがき",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌学書（聞書）",
+  "era": "室町中期",
+  "author": "東常縁",
+  "desc": "東常縁が文安6年（1449）から招月庵正徹ら先達に歌の事を尋ね、その教えを書き留めた聞書。秀歌の評や歌語の解釈を記す。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -289,6 +294,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
